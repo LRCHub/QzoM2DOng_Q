@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "二等星",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-12T10:48:00.351261Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二等星",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_二等星_Reol.txt"
+    }
+  ]
+}
